@@ -1,0 +1,14 @@
+{
+    "AppName": {
+        "message": "Rút gọn URL nhanh"
+    },
+    "AppDesc": {
+        "message": "Nhập liên kết cần rút gọn và nhận lại liên kết rút gọn trong tích tắc ✌️"
+    },
+    "Long": {
+        "message": "URL dài"
+    },
+    "Short": {
+        "message": "URL ngắn"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "AppName": {
+        "message": "Fast URL Shortener"
+    },
+    "AppDesc": {
+        "message": "Input your looooong URL and let us do the rest ✌️"
+    },
+    "Long": {
+        "message": "Long URL"
+    },
+    "Short": {
+        "message": "Short URL"
+    }
+}
